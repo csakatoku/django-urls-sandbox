@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'sandbox.app_a',
     'sandbox.app_b',
+    'django_extensions',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
